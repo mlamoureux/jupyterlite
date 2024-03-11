@@ -1,3 +1,4 @@
+# a change to try to get version 0.9.3 of anywidgets
 # Core modules (mandatory) 
 jupyterlite-core==0.2.3
 jupyterlab~=4.0.11
